@@ -1,0 +1,7 @@
+C:\Code\code-challenges\CodeChallenges\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Code\code-challenges\CodeChallenges\StringReverse\bin\Debug\StringReverse.exe
+C:\Code\code-challenges\CodeChallenges\StringReverse\bin\Debug\StringReverse.pdb
+C:\Code\code-challenges\CodeChallenges\StringReverse\obj\Debug\StringReverse.csprojAssemblyReference.cache
+C:\Code\code-challenges\CodeChallenges\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+C:\Code\code-challenges\CodeChallenges\StringReverse\obj\Debug\StringReverse.exe
+C:\Code\code-challenges\CodeChallenges\StringReverse\obj\Debug\StringReverse.pdb
