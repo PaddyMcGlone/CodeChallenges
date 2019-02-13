@@ -1,0 +1,7 @@
+C:\Code\code-challenges\CodeChallenges\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Code\code-challenges\CodeChallenges\Palindrome\bin\Debug\Palindrome.exe
+C:\Code\code-challenges\CodeChallenges\Palindrome\bin\Debug\Palindrome.pdb
+C:\Code\code-challenges\CodeChallenges\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Code\code-challenges\CodeChallenges\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Code\code-challenges\CodeChallenges\Palindrome\obj\Debug\Palindrome.exe
+C:\Code\code-challenges\CodeChallenges\Palindrome\obj\Debug\Palindrome.pdb
