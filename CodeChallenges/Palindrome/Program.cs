@@ -8,17 +8,36 @@ namespace Palindrome
 {
     class Program
     {
-        static void Main()
+        public static bool CalculatePalindrome(string input)
+        {
+            for (int i = 0, j = input.Length - 1; i < j; i++, j--)
+            {
+                if (input[i] != input[j])               
+                    return false;                
+            }
+            return true;
+        }
+
+        public static void AskQuestionShowResult()
         {
             Console.WriteLine("Please enter a word");
             var input = Console.ReadLine();
-            var output = "";
+            var result = CalculatePalindrome(input);
 
-            foreach (var c in input)
-                output = c + output;
+            Console.WriteLine($"Is this a Palindrome? : {result.ToString()}");
+        }
 
-            Console.WriteLine(output);
-            Console.ReadLine();
+        public static bool ReTry;
+
+        static void Main()
+        {
+            do
+            {
+                AskQuestionShowResult();
+
+                Console.WriteLine("Would you like to try again? [Y/N]");                
+                ReTry = Console.ReadKey().Key.ToString() == "Y" ? true : false;                
+            } while (ReTry);
         }
     }
 }

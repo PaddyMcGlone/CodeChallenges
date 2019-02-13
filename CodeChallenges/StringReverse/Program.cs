@@ -6,7 +6,6 @@ namespace StringReverse
     {
         static void Main(string[] args)
         {
-
             // Attempt 1:
             Console.WriteLine("Please enter a string to reverse!");
             var inputString = Console.ReadLine();
@@ -18,7 +17,6 @@ namespace StringReverse
                 myArray[j] = inputString[i];
             }
             Console.WriteLine($"Your string: {new string(myArray)}");
-
 
             // Attempt 2:
             Console.WriteLine("Please enter a word");
