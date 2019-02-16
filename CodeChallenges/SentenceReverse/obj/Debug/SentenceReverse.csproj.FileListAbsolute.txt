@@ -1,0 +1,7 @@
+C:\Code\code-challenges\CodeChallenges\SentenceReverse\bin\Debug\SentenceReverse.exe.config
+C:\Code\code-challenges\CodeChallenges\SentenceReverse\bin\Debug\SentenceReverse.exe
+C:\Code\code-challenges\CodeChallenges\SentenceReverse\bin\Debug\SentenceReverse.pdb
+C:\Code\code-challenges\CodeChallenges\SentenceReverse\obj\Debug\SentenceReverse.csprojAssemblyReference.cache
+C:\Code\code-challenges\CodeChallenges\SentenceReverse\obj\Debug\SentenceReverse.csproj.CoreCompileInputs.cache
+C:\Code\code-challenges\CodeChallenges\SentenceReverse\obj\Debug\SentenceReverse.exe
+C:\Code\code-challenges\CodeChallenges\SentenceReverse\obj\Debug\SentenceReverse.pdb
