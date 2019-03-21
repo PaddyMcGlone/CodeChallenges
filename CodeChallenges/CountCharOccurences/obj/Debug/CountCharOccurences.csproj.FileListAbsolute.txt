@@ -1,0 +1,7 @@
+C:\Code\code-challenges\CodeChallenges\CountCharOccurences\bin\Debug\CountCharOccurences.exe.config
+C:\Code\code-challenges\CodeChallenges\CountCharOccurences\bin\Debug\CountCharOccurences.exe
+C:\Code\code-challenges\CodeChallenges\CountCharOccurences\bin\Debug\CountCharOccurences.pdb
+C:\Code\code-challenges\CodeChallenges\CountCharOccurences\obj\Debug\CountCharOccurences.csprojAssemblyReference.cache
+C:\Code\code-challenges\CodeChallenges\CountCharOccurences\obj\Debug\CountCharOccurences.csproj.CoreCompileInputs.cache
+C:\Code\code-challenges\CodeChallenges\CountCharOccurences\obj\Debug\CountCharOccurences.exe
+C:\Code\code-challenges\CodeChallenges\CountCharOccurences\obj\Debug\CountCharOccurences.pdb
