@@ -12,17 +12,22 @@ namespace CountCharOccurences
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Key count:");
             var input = "Hello world";
-
-            int total = 0;
+            var charDictionary = new Dictionary<char, int>();
 
             foreach (var c in input)
             {
-                if (c == 'o') total++;
+                if (c == ' ') return;
+
+                if (charDictionary.ContainsKey(c))
+                    charDictionary[c]++;
+                else
+                    charDictionary.Add(c, 1);                
             }
 
-            Console.WriteLine("The char 'o' appears : {0} times", total);
-            Console.ReadKey();
+            foreach (var key in charDictionary)
+                Console.WriteLine(key.Key + " " + key.Value);            
         }
     }
 }
